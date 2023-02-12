@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Rap {
+public interface Rap {
+    void play();
 }
